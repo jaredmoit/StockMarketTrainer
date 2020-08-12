@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Stock Market Trainer</string>
+    <string name="api_key">bskd4ovrh5rdcdh7bc7g</string>
+    <string name="timeout_error">Request timed out</string>
+    <string name="general_error">Something went wrong</string>
+    <string name="search">Search</string>
+    <string name="enter_stock_symbol">Enter Stock Symbol</string>
+    <string name="symbol_hint">Symbol (ex: TSLA)</string>
+    <string name="future">Future</string>
+    <string name="past">Past</string>
+    <string name="invalid_symbol">Invalid Symbol</string>
+    <string name="reset">Reset</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="reset_message">Are you sure you want to start over and lose all of your progress?</string>
+    <string name="preference_money">moneyState</string>
+    <string name="preference_turns">turnsState</string>
+    <string name="preference_history">historyState</string>
+    <string name="next">Next</string>
+    <string name="history">History</string>
+    <string name="total_savings">Total Savings</string>
+    <string name="prefs_id">prefs</string>
+</resources>
